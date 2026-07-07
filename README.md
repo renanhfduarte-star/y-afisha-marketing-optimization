@@ -41,4 +41,4 @@ The analysis is divided into three main business areas:
 ## 🚀 How to Run the Project
 1. Clone this repository to your local machine:
    ```bash
-   git clone [https://github.com/YourUsername/your-repo-name.git](https://github.com/YourUsername/your-repo-name.git)
+   git clone [https://github.com/renanhfduarte-star/y-afisha-marketing-optimization.git](https://github.com/renanhfduarte-star/y-afisha-marketing-optimization.git)
